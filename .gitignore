@@ -4,6 +4,6 @@ example.jpeg
 example.png
 .cache
 .DS_Store
-.idea
-input-specs
-output-images
+.idea/
+input-specs/
+output-images/
